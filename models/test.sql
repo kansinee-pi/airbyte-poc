@@ -1,4 +1,4 @@
-create table "test_2"."new_v_test"
+create table "test_2"."v_test_table"
 as (
     select
         _airbyte_emitted_at,
